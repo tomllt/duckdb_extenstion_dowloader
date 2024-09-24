@@ -1,0 +1,5 @@
+version: v1.1.0
+arch: linux_arm64
+plugin_name:
+thread_num: 8
+save_dir: duckdb_extensions
